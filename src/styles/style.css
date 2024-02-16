@@ -150,6 +150,18 @@ body {
 
    body {
       /* justify-content: space-between; */
-      margin: 10%;
+      
+      min-height: 100vh;
+      min-width: 100vw;
+   }
+
+   #temp_value {
+      font-weight: bold;
+      font-size: 40px;
+      line-height: 45px;
+   }
+
+   #bt-search {
+      color: black;
    }
 }   
