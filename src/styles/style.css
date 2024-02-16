@@ -145,3 +145,11 @@ body {
    width: 200px;
    margin-top: 20px;
 }
+
+@media screen and (max-width: 600px) {
+
+   body {
+      /* justify-content: space-between; */
+      margin: 10%;
+   }
+}   
