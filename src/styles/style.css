@@ -152,6 +152,7 @@ body {
       max-height: 100vh;
       max-width: 100vw;
       height: auto;
+      overflow: hidden;
    }
 
    #temp_value {
